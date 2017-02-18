@@ -12,6 +12,7 @@
     "images"
   ],
   "homepage": "http://lokeshdhakar.com/projects/lightbox2/",
+  "style": "./dist/css/lightbox.css",
   "main": "./dist/js/lightbox.js",
   "repository": {
     "type": "git",
